@@ -1,4 +1,4 @@
-# signsverse-client-portal
+# signsverse-client-portal / This project is currently Closed Source. If you are a recruiter or a developer interested in the full source code for review or collaboration, please contact me
 A high-performance, custom-built client portal for WordPress that bridges the gap between Zoho CRM, Zoho Projects, and the end user. This dashboard provides a unified "Single Pane of Glass" view for clients to track their deals, project tasks, and financial status in a modern dark-themed interface.
 🚀 Key Features
 1. Bi-Directional Zoho Integration
