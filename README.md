@@ -8,7 +8,7 @@ Zoho Projects (Tasks): Pulls active tasks from multiple projects, displaying the
 
 Dynamic Data Filtering: Only displays relevant "Open," "In Progress," or "Completed" tasks to keep the client focused on what matters.
 
-2. Automated Analytics & Reporting
+2. Automated Analytics & Reporting.
 Stats Grid: Automatically calculates and displays Total Projects, Combined Deal Value, and overall Active Task counts.
 
 Design Preview System: Smart detection of "Design Artfile" links from Zoho CRM fields to allow one-click design approvals.
