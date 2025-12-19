@@ -11,7 +11,7 @@ Dynamic Data Filtering: Only displays relevant "Open," "In Progress," or "Comple
 2. Automated Analytics & Reporting.
 Stats Grid: Automatically calculates and displays Total Projects, Combined Deal Value, and overall Active Task counts.
 
-Design Preview System: Smart detection of "Design Artfile" links from Zoho CRM fields to allow one-click design approvals.
+Design Preview System: Smart detection of "Design Artfile" & links from Zoho CRM fields to allow one-click design approvals.
 
 Overdue Task Tracking: Intelligent date logic that highlights overdue tasks in red to alert clients/managers.
 
